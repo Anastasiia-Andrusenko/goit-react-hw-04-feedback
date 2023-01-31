@@ -1,0 +1,49 @@
+.list {
+  margin-left: 40px;
+}
+
+.item {
+  font-size: 20px;
+  margin-bottom: 14px;
+}
+
+.value {
+  font-family: 'Unbounded', cursive;
+  margin-left: 16px;
+  font-weight: 600;
+}
+
+.line {
+  width: 400px;
+  height: 2px;
+  margin: 15px auto 15px auto;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.total {
+  margin-left: 40px;
+}
+
+.points {
+  color: rgba(0, 0, 0, 0.3);
+}
+
+.positive {
+  font-weight: 600;
+  color: rgb(3, 60, 3);
+  margin-left: auto;
+  margin-right: auto;
+  width: fit-content;
+  margin-top: 30px;
+  /* margin-left: 30px; */
+  border: 1px solid green;
+  padding: 8px 18px;
+  border-radius: 20px;
+  box-shadow: inset 0px 0px 15px -1px rgb(61, 223, 61);
+}
+
+.presenters {
+  margin-left: 100px;
+  font-weight: 600;
+  color: rgb(3, 60, 3);
+}
